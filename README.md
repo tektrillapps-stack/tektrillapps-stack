@@ -53,40 +53,22 @@
 
 <h2 align="center">💼 What I Offer @ Tektrill IT Solutions</h2>
 
-<table align="center" width="100%" border="0">
-  <tr>
-    <td align="center" width="50%">
-      <br>
-      <img src="https://img.shields.io/badge/📱_Mobile_App_Dev-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-      <br><br><b>Cross-platform apps using Flutter & Firebase.</b><br><br>
-    </td>
-    <td align="center" width="50%">
-      <br>
-      <img src="https://img.shields.io/badge/💻_Custom_Software-20232A?style=for-the-badge&logo=codeigniter&logoColor=white" />
-      <br><br><b>End-to-end scalable web & software solutions.</b><br><br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <br>
-      <img src="https://img.shields.io/badge/🤖_Automated_Bots-FF9900?style=for-the-badge&logo=probot&logoColor=white" />
-      <br><br><b>Custom bot development for business automation.</b><br><br>
-    </td>
-    <td align="center" width="50%">
-      <br>
-      <img src="https://img.shields.io/badge/🎨_Branding_&_Design-E10098?style=for-the-badge&logo=figma&logoColor=white" />
-      <br><br><b>Digital Marketing, SEO, and graphic designing.</b><br><br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <br>
-      <img src="https://img.shields.io/badge/🎓_AI_Training-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
-      <br><br><b>Practical AI application integration and training programs.</b><br><br>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <!-- 1st Row -->
+  <img src="MEE_MOBILE_APP_CARD_IMAGE_LINK_IKKADA_PASTE_CHEYANDI" width="48%">
+  <img src="MEE_CUSTOM_SOFTWARE_CARD_IMAGE_LINK_IKKADA_PASTE_CHEYANDI" width="48%">
+</p>
 
+<p align="center">
+  <!-- 2nd Row -->
+  <img src="MEE_BOTS_CARD_IMAGE_LINK_IKKADA_PASTE_CHEYANDI" width="48%">
+  <img src="MEE_BRANDING_CARD_IMAGE_LINK_IKKADA_PASTE_CHEYANDI" width="48%">
+</p>
+
+<p align="center">
+  <!-- 3rd Row (Center big card) -->
+  <img src="MEE_AI_TRAINING_CARD_IMAGE_LINK_IKKADA_PASTE_CHEYANDI" width="97%">
+</p>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tektrillapps-stack&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
