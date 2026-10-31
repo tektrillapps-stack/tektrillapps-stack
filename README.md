@@ -27,20 +27,53 @@
 
 # 💻 Tech Stack:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
-### **[EarnHub](https://play.google.com/store/apps/details?id=com.jagadish.earnhub)** (Smart Ecosystem App)
-- **Role:** Founder & Lead Developer
-- **Tech Stack:** Flutter, Dart, Firebase (Auth, Firestore)
-- **About:** A centralized smart ecosystem featuring micro-tasks, ad promotions, referral rewards, and local vendor integrations. Successfully launched and monetized on the Google Play Store.
+<table align="center" border="1" bordercolor="#30363d">
+  <tr>
+    <td width="100%" align="center">
+      <h3><b>EarnHub (Smart Ecosystem App)</b></h3>
+      <p><i>A centralized smart ecosystem featuring micro-tasks, ad promotions, referral rewards, and local vendor integrations.</i></p>
+      <p><b>Role:</b> Founder & Lead Developer | <b>Tech Stack:</b> Flutter, Dart, Firebase</p>
+      <a href="https://play.google.com/store/apps/details?id=com.jagadish.earnhub" target="_blank">
+        <img src="https://img.shields.io/badge/View_on_Play_Store-000000?style=for-the-badge&logo=google-play&logoColor=41CC00" alt="Play Store"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-## 💼 What I Offer @ Tektrill IT Solutions
-- 📱 **Mobile App Development:** Cross-platform apps using Flutter & Firebase.
-- 💻 **Custom Software & Web Dev:** End-to-end scalable solutions for businesses.
-- 🤖 **Automated Bots:** Custom bot development for business automation.
-- 🎨 **Digital Marketing & Design:** Brand building, SEO, and professional graphic design.
-- 🎓 **AI Training:** Practical AI application integration and training programs.
-# 📊 GitHub Stats:
+<br>
+
+<h2 align="center">💼 What I Offer @ Tektrill IT Solutions</h2>
+
+<table align="center" border="1" bordercolor="#30363d">
+  <tr>
+    <td width="50%" align="center">
+      <h3>📱 Mobile App Dev</h3>
+      <p>Cross-platform mobile applications using Flutter & Firebase.</p>
+    </td>
+    <td width="50%" align="center">
+      <h3>💻 Custom Software</h3>
+      <p>End-to-end scalable web & software solutions for businesses.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🤖 Automated Bots</h3>
+      <p>Custom bot development for workflow and business automation.</p>
+    </td>
+    <td width="50%" align="center">
+      <h3>🎨 Branding & Design</h3>
+      <p>Digital Marketing, SEO, and professional graphic designing.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>🎓 AI Training</h3>
+      <p>Practical AI application integration and training programs across all platforms.</p>
+    </td>
+  </tr>
+</table># 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=tektrillapps-stack&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=tektrillapps-stack&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tektrillapps-stack&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
