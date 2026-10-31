@@ -69,6 +69,7 @@
   <!-- 3rd Row (Center big card) -->
   <img src="MEE_AI_TRAINING_CARD_IMAGE_LINK_IKKADA_PASTE_CHEYANDI" width="97%">
 </p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tektrillapps-stack&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
