@@ -15,13 +15,13 @@
 ## 🌐 Socials:
 <p align="left">
   <a href="https://instagram.com/tektrill" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-%40tektrill-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:tektrill@yandex.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-fc3f1d?style=for-the-badge&logo=yandex&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-tektrill%40yandex.com-fc3f1d?style=flat&logo=yandex&logoColor=white" alt="Email"/>
   </a>
   <a href="https://tektrill.web.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-14171A?style=for-the-badge&logo=google-chrome&logoColor=cyan" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-tektrill.web.app-000000?style=flat&logo=google-chrome&logoColor=cyan" alt="Website"/>
   </a>
 </p>
 
