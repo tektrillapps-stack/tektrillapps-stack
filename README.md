@@ -1,5 +1,15 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Building custom software, AI bots, and delivering high-end digital solutions at Tektrill IT Solutions.<br><br>👯 I’m looking to collaborate on<br>Exciting web/app development projects, UI/UX designs, and AI-driven automation systems.<br><br>🤝 I’m looking for help with<br>Expanding our AI technology training programs to reach more tech enthusiasts across all platforms.<br><br>🌱 I’m currently learning<br>Advanced AI implementations, next-gen development frameworks, and prompt engineering.<br><br>💬 Ask me about<br>Graphic Designing, Full-Stack Web & App Development, Custom Bots, Digital Marketing, and AI Tech.<br><br>⚡ Fun fact<br>I develop free websites for a limited number of people/businesses to give back to the community! 🚀
+<h2 align="center"> ✨ About Me </h2>
+
+> **Founder @ Tektrill IT Solutions | Tech Enthusiast & AI Educator**
+
+- 🔭 **I’m currently working on:** *Building custom software, AI bots, and delivering high-end digital solutions.*
+- 👯 **I’m looking to collaborate on:** *Exciting web/app dev projects, UI/UX designs, & AI-driven automation.*
+- 🤝 **I’m looking for help with:** *Expanding AI technology training programs across all platforms.*
+- 🌱 **I’m currently learning:** *Advanced AI implementations, next-gen frameworks, and prompt engineering.*
+- 💬 **Ask me about:** *Graphic Designing, Full-Stack Web/App Dev, Custom Bots, Digital Marketing, & AI Tech.*
+- ⚡ **Fun fact:** *I develop free websites for a limited number of people/businesses to give back to the community! 🚀*
+
+<br/>
 
 
 ## 🌐 Socials:
